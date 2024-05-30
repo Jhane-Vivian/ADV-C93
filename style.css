@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+   
+}
+center{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.boxDiv{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+}
+h1{
+    color: blue;
+}
